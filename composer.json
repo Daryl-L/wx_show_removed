@@ -1,6 +1,7 @@
 {
     "require": {
         "guzzlehttp/guzzle": "^6.2",
-        "sabre/xml": "^1.4"
+        "sabre/xml": "^1.4",
+        "predis/predis": "^1.1"
     }
 }
